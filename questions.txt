@@ -1,0 +1,14 @@
+In a completely random order:
+
+1. Bad characters
+3. IP of target
+2. IP of host - use a default value here
+3. Port to listen - use a default value here
+4. Memory address for payload
+5. Pointer (e.g. JMP_ESP?)
+6. OS's involved
+7. Sizes (landing pad, space in memory)
+8. Little/Big format (default little)
+9. Identified input (application field, POST request?)
+10. msfvenom inputs (language, exit type, encoding)
+11. Language output of final exploit - default python?
